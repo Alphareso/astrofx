@@ -12,7 +12,7 @@ Re-create non-modular project to run with Maven.
 
 ### Commandline
 ```
-mvn archetype:generate -DgroupId=com.astrofx -DartifactId=my-javafx-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.astrofx -DartifactId=astrofx -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
 ### Compile
 ```
